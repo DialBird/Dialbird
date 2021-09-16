@@ -1,6 +1,6 @@
 ### Hi I'm Dialbird 👋
 
-[![Dialbird's GitHub stats](https://github-readme-stats.vercel.app/api?username=dialbird)](https://github.com/anuraghazra/github-readme-stats)
+[![Dialbird's GitHub stats](https://github-readme-stats.vercel.app/api?username=dialbird&show_icons=true&theme=cobalt)(https://github.com/anuraghazra/github-readme-stats)
 
 I'm a Software Engineer and a UI/UX Designer
 
